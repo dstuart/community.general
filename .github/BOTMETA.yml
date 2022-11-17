@@ -265,6 +265,8 @@ files:
     maintainers: delineaKrehl tylerezimmerman
   $module_utils/:
     labels: module_utils
+  $module_utils/deps.py:
+    maintainers: russoz
   $module_utils/gconftool2.py:
     labels: gconftool2
     maintainers: russoz
@@ -282,6 +284,9 @@ files:
   $module_utils/ipa.py:
     labels: ipa
     maintainers: $team_ipa
+  $module_utils/jenkins.py:
+    labels: jenkins
+    maintainers: russoz
   $module_utils/manageiq.py:
     labels: manageiq
     maintainers: $team_manageiq
